@@ -1,6 +1,6 @@
 ![MichaelFellas](https://github.com/MichaelFellas/MichaelFellas/blob/main/header.png?raw=true)
 
-# **Looking for a job in Web Development (Fullstack), Software Engineering or Data Analytics**
+# :australia: **Looking for a job in Web Development (Fullstack), Software Engineering or Data Analytics**
 
 ## Education
 
@@ -31,9 +31,11 @@ Microsoft Powerpoint, Microsoft Word, Adobe Photoshop, Adobe Illustrator, Adobe 
 
 ## About Me
 
-- 🔭 I’m currently working on Finance.Helper, find out more here --> https://github.com/MichaelFellas/Finance.Helper
+- :microscope: I’m currently working on Finance.Helper, find out more here --> https://github.com/MichaelFellas/Finance.Helper
 - 🌱 I’m currently learning Python!
-- 📫 How to reach me: Check out my Portfolio --> https://michaelfellas.github.io/Portfolio-Update/
+- 📫 Check out my Portfolio --> https://michaelfellas.github.io/Portfolio-Update/
+- :briefcase: My LinkedIn --> https://www.linkedin.com/in/michael-ariti/
+- :email: My Email --> MichaelAriti94@gmail.com
 
 ## Quickstats
 
