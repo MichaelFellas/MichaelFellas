@@ -4,7 +4,12 @@
 
 ## Education
 
-- :mortar_board: Bachelor of Commerce (Finance) 
+- :mortar_board: UWA Coding BootCamp Full-Stack Flex
+- :mortar_board: Bachelor of Commerce (Finance) 2021
+
+## Skills
+
+### :keyboard: Front End
 
 
 
