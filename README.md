@@ -1,4 +1,4 @@
-[![MichaelFellas](https://github.com/MichaelFellas/MichaelFellas/blob/main/header.png?raw=true)
+![MichaelFellas](https://github.com/MichaelFellas/MichaelFellas/blob/main/header.png?raw=true)
 
 <!--
 **MichaelFellas/MichaelFellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
