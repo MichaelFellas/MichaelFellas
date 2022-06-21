@@ -11,15 +11,23 @@
 
 ### :desktop_computer: Front End
 
-HTML 5, CSS, Javascript, React, JQuery, Bootstrap, Materialize, Ant Design.
+HTML 5, CSS, Javascript, React, JQuery, Bootstrap, Materialize, Ant Design, Moment.
 
 ### :keyboard: Back End
 
-NodeJS, Express, Nodemailer, Handlebars.js, Webpack, Bcyrpt, Dotenv, reCharts, JWT, React Bootstrap.
+NodeJS, Express, Espress Session, Nodemailer, Handlebars.js, Webpack, Bcyrpt, Dotenv, reCharts, JWT, React Bootstrap.
 
 ### :card_file_box: Databasing
 
-MySQL, Sequelize, MongoDB, Mongoose, ApolloDB, GraphQL, Microsoft Excel (Advanced).
+MySQL, Sequelize, MongoDB, Mongoose, ApolloDB, GraphQL, JAWSdb, Microsoft Excel (Advanced).
+
+### :inbox_tray: API's
+
+GoogleMaps API, Marvel API, OMBD API, OpenWeatherAPI.
+
+### :computer_mouse: Others
+
+Microsoft Powerpoint, Microsoft Word, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Reaper, Audacity, Heroku.
 
 ## About Me
 
