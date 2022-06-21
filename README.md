@@ -1,6 +1,8 @@
 ![MichaelFellas](https://github.com/MichaelFellas/MichaelFellas/blob/main/header.png?raw=true)
 
-# :australia: **Looking for a job in Web Development (Fullstack), Software Engineering or Data Analytics**
+# **Looking for a job in Web Development (Fullstack), Software Engineering or Data Analytics**
+
+:australia:
 
 ## Education
 
