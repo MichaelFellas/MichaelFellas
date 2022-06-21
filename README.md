@@ -9,11 +9,17 @@
 
 ## Skills
 
-### :keyboard: Front End
+### :desktop_computer: Front End
 
-HTML 5, CSS, Javascript, React, 
+HTML 5, CSS, Javascript, React, JQuery, Bootstrap, Materialize, Ant Design.
 
+### :keyboard: Back End
 
+NodeJS, Express, Nodemailer, Handlebars.js, Webpack, Bcyrpt, Dotenv, reCharts, JWT, React Bootstrap.
+
+### :card_file_box: Databasing
+
+MySQL, Sequelize, MongoDB, Mongoose, ApolloDB, GraphQL, Microsoft Excel (Advanced).
 
 ## About Me
 
@@ -26,4 +32,4 @@ HTML 5, CSS, Javascript, React,
 
 [![MichaelFellas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFellas)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,jquery,mongodb,mysql,nodejs,react,git,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,jquery,mongodb,mysql,nodejs,react,git,docker,md)](https://skills.thijs.gg)
