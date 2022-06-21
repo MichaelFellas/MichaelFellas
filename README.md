@@ -16,5 +16,6 @@
 
 ## Quickstats
 
-[![MichaelFellas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFellas)](https://github.com/anuraghazra/github-readme-stats)
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,jquery,mongodb,mysql,nodejs,react)](https://skills.thijs.gg)
+[![MichaelFellas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFellas)](https://github.com/anuraghazra/github-readme-stats)
+
