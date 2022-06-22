@@ -29,7 +29,7 @@ GoogleMaps API, Marvel API, OMBD API, OpenWeatherAPI.
 
 ### :computer_mouse: Others
 
-Microsoft Powerpoint, Microsoft Word, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Reaper, Audacity, Heroku.
+Jest Testing, Microsoft Powerpoint, Microsoft Word, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Reaper, Audacity, Heroku.
 
 ## About Me
 
